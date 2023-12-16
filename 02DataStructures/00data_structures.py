@@ -14,3 +14,4 @@ print(months[-2])
 print(len(months))
 print(months[25]) # List index out of range 
 
+# we can use any type of data in the list 

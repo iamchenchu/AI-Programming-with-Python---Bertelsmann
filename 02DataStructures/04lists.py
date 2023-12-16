@@ -8,7 +8,7 @@ print(sentence2)
 sentence2[0:2] = ["We", "want"]
 print(sentence2)
 
-sentence1[30]="!"
+sentence1[30]="!"        # TypeError: 'str' object does not support item assignment
 print(sentence1)
 
 #For sentence 2 it will be mutated and the execution will be done as expected 

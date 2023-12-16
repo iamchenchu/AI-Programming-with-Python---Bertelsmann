@@ -5,12 +5,18 @@ print(len(VINIX))
 print("BA" in VINIX)
 print("VZ" not in VINIX)
 
-#Lists are mutable 
-# Strings in the lists are immutable 
+# Lists are mutable 
+# Strings in the lists are immutable
+# Both Strings and lists are ordered which is why we are able to access the items using the indices 
+ 
 VINIX[1] = "Chenchu"
-print(VINIX) 
+print(VINIX)  # mutatioon happens the VINIX[1] will be replaced with "Chenchu"
+
+
 
 greetings = "Hello there"
+greeting = "Mello there"
+print(greeting)                  # will be printed as Melli there
 greetings[3] = "i" 
-print(greetings) # TypeError: 'str' object does not support item assignment
+print(greetings)                 # TypeError: 'str' object does not support item assignment
 
