@@ -5,3 +5,12 @@ Types of Data Structures: Lists, Tuples, Sets, Dictionaries, Compound Data Struc
 Operators: Membership, Identity
 Built-In Functions and Methods
 """
+#Lists!
+# A list is one of the most common and basic data structures in Python. which is mutable 
+months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+print(months[0])
+print(months[-1])
+print(months[-2])
+print(len(months))
+print(months[25]) # List index out of range 
+
