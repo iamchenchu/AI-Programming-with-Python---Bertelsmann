@@ -14,6 +14,6 @@ print(elements["helium"])
 print(elements["hydrogen"]["weight"])
 
 oxygen = {"number" : 8, "weight": 15.999, "symbol": "O"}
-elements["oxygen"] = oxygen
+elements["oxygen"] = oxygen           # Oxygen will be added to the dictionary elements as a sub dict
 print(elements)
 

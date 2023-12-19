@@ -21,8 +21,8 @@ a = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
 b = set(a)
 print(len(a) - len(b))
 b.add(5)
-print(b)
+print(b) # 5 element will be added to the set 
 b.pop()
-print(b)
+print(b) # random element would be deleted
 
 

@@ -3,5 +3,5 @@ print(animals.keys())
 print(animals.values())
 print(animals['dogs'])
 print(animals['dogs'][3])
-print(animals[3])
-print(animals['fish'])
+print(animals[3])               # Error will come KeyError : 3
+print(animals['fish']) 
