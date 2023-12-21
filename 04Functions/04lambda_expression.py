@@ -3,7 +3,6 @@ later in your code. This can be especially useful for higher order functions, or
 
 def multiply(x, y):
     return x * y
-
 print(multiply(3,4))
 
 #now see the same expression with lambda
