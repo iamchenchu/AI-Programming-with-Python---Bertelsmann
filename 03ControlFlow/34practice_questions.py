@@ -34,4 +34,12 @@ winners = {1931: ['Norman Taurog'], 1932: ['Frank Borzage'], 1933: ['Frank Lloyd
 
 # Question 1A: Create dictionary with the count of Oscar nominations for each director 
 nom_count_dict = {} 
+for year, list_dir in nominated.items():
+    for director in list_dir: 
+        if director not in nom_count_dict: 
+            nom_count_dict[director] = 1
+        else:
+            nom_count_dict[director] += 1
+# Add your code here, make sure your result is stored in `nom_count_dict`
+print(nom_count_dict)
 # Add your code here, make sure your result is stored in `nom_count_dict`

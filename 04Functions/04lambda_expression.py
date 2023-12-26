@@ -9,3 +9,5 @@ print(multiply(3,4))
 
 multiplication = lambda x,y:x*y
 print(multiplication(4,5))
+
+
