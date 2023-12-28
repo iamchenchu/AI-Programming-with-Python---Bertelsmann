@@ -14,3 +14,5 @@ to {} if you submit all assignments before the due date.\n\n"
 
 for name, assignment, grade in zip(names, assignments, grades):
     print(message.format(name, assignment, grade, int(grade) + int(assignment)*2))
+
+
