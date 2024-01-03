@@ -1,6 +1,6 @@
 """To read a file we have to create a file that we want to read
 then we have to use a function called open(file_location, readmode)
-After reading the content we have to make sure that we are closing the file reading activity using variable.close()"""
+After reading the content weha ve to make sure that we are closing the file reading activity using variable.close()"""
 
 file_location = "/Users/mekalathuruchenchaiah/Desktop/PROGRAMMING/AI Programming with Python - Bertelsmann/05Scripting/my_file.txt"
 

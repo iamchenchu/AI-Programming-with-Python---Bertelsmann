@@ -1,3 +1,2 @@
-I love programming
-I am learning ML
-I scored 4gpa in the semester 1.
+I am writing this line to the file to test the functionality of the write() function in python
+I am writing this line to the file to test the functionality of the write() function in python
