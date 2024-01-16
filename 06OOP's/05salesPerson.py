@@ -4,13 +4,11 @@ class Pants:
     
     def __init__(self, color, waist_size, length, price):
         """Method for initializing a Pants object
-    
         Args: 
             color (str)
             waist_size (int)
             length (int)
             price (float)
-            
         Attributes:
             color (str): color of a pants object
             waist_size (str): waist size of a pants object
