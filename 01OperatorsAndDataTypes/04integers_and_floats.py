@@ -6,5 +6,4 @@ print(.1 + .1 + .1)
 print(.1 + .1 + .1 == .3) # False
 
 import math
-
 print(math.isclose(0.1 + 0.1 + 0.1, 0.3))

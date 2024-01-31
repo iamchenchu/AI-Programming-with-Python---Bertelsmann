@@ -1,4 +1,4 @@
-print(type(4))
+print(type(4)) # Integer
 print(type(3.7))
 print(type('this'))
 print(type(True))
