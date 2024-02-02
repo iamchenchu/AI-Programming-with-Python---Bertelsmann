@@ -13,7 +13,7 @@ in Python, and you can see which exception is thrown in the error message."""
 # Example of Syntax Error
 
 # missing a closing quotation mark here which is causing the sysntax error
-msg = "I am chenchu reddy
+msg = "I am chenchu reddy"
 print(msg)
 
 

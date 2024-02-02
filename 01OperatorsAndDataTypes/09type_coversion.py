@@ -21,3 +21,5 @@ result_string1 = "This week's total sales: " + weekly_sales1
 print(result_string1)
 
 
+
+
