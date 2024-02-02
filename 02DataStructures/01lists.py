@@ -4,7 +4,7 @@ print(list_of_random_things[-1])
 print(list_of_random_things[1:]) #prints all the elements post 1st index 
 
 
-months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"] # months 
 q3 = months[6:9]
 print(q3)
 first_half = months[:6]
