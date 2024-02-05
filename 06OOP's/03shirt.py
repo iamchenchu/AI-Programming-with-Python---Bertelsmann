@@ -8,4 +8,4 @@ shirt_two.change_price(45)
 print(shirt_two.price)
 shirt_one.color = 'yellow'
 shirt_one.size = 'L'
-shirt_one.price = 38  # prints 
+shirt_one.price = 38  # prints numbet
