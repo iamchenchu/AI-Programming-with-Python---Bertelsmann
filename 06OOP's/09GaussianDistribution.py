@@ -8,9 +8,11 @@ class Distribution:
         visualizing a probability distribution.
 
         Attributes:
-            mean (float) representing the mean value of the distribution
+            mean (float) representing the mean value of the distribution also called the average
             stdev (float) representing the standard deviation of the distribution
             data_list (list of floats) a list of floats extracted from the data file
+
+
 
             """
 
