@@ -15,5 +15,9 @@ Below is the structure of learning one by one
 <br>
 4. Scripting
 <br>
-5. Opp's
+5. Oop's
+<br>
+6. Virtual Environments
+<br>
+6. Linear Algebra
 <br>
